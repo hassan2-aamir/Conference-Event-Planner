@@ -2,6 +2,9 @@
 
 A comprehensive React application that helps users plan and budget for conference events by selecting venues, add-ons, and meal options with real-time cost calculation.
 
+## Demo
+https://hassan2-aamir.github.io/Conference-Event-Planner/ 
+
 ## Features
 
 - **Venue Selection**: Choose from multiple venue options with different capacities
